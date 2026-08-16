@@ -1,0 +1,140 @@
+{
+  "МИСТЕР_ПТИЧКИ": {
+    "max_activations": 1,
+    "current_activations": 1,
+    "reward": 100,
+    "created_by": 1854264120,
+    "created_at": 1755884627.73518,
+    "used_by": [
+      1726067602
+    ]
+  },
+  "ASTFG94": {
+    "max_activations": 1,
+    "current_activations": 1,
+    "reward": 100,
+    "created_by": 1301654673,
+    "created_at": 1755894623.507308,
+    "used_by": [
+      5642796386
+    ]
+  },
+  "ASD4": {
+    "max_activations": 1,
+    "current_activations": 0,
+    "reward": 100,
+    "created_by": 1301654673,
+    "created_at": 1755894798.283451,
+    "used_by": []
+  },
+  "OP": {
+    "max_activations": 1,
+    "current_activations": 1,
+    "reward": 2,
+    "created_by": 1301654673,
+    "created_at": 1755894817.974253,
+    "used_by": [
+      6441128051
+    ]
+  },
+  "POZDNYAKOV": {
+    "max_activations": 3,
+    "current_activations": 3,
+    "reward": 10,
+    "created_by": 1301654673,
+    "created_at": 1755894964.251202,
+    "used_by": [
+      5642796386,
+      5111748388,
+      5929607250
+    ]
+  },
+  "BZZZ": {
+    "max_activations": 1,
+    "current_activations": 1,
+    "reward": 1,
+    "created_by": 1854264120,
+    "created_at": 1755894997.540234,
+    "used_by": [
+      5111748388
+    ]
+  },
+  "ZOV": {
+    "max_activations": 5,
+    "current_activations": 5,
+    "reward": 5,
+    "created_by": 1854264120,
+    "created_at": 1755898155.080772,
+    "used_by": [
+      1854264120,
+      5929607250,
+      6184407652,
+      5519613826,
+      7913473478
+    ]
+  },
+  "ГРАЖДАНСКАЯ_ОБОРОНА": {
+    "max_activations": 1,
+    "current_activations": 1,
+    "reward": 100,
+    "created_by": 1854264120,
+    "created_at": 1755963333.448579,
+    "used_by": [
+      6441128051
+    ]
+  },
+  "KRIPER2004": {
+    "max_activations": 1,
+    "current_activations": 1,
+    "reward": 1,
+    "created_by": 1301654673,
+    "created_at": 1756496331.864326,
+    "used_by": [
+      5929607250
+    ]
+  },
+  "NFT": {
+    "max_activations": 100,
+    "current_activations": 3,
+    "reward": 10,
+    "created_by": 1854264120,
+    "created_at": 1756837589.918776,
+    "used_by": [
+      5929607250,
+      5642796386,
+      7685038930
+    ]
+  },
+  "HAPPY_BIRHDAY": {
+    "max_activations": 1,
+    "current_activations": 0,
+    "reward": 200,
+    "created_by": 1854264120,
+    "created_at": 1757708372.971173,
+    "used_by": []
+  },
+  "ХЭЛЛОУИН": {
+    "max_activations": 1,
+    "current_activations": 1,
+    "reward": 100,
+    "created_by": 1854264120,
+    "created_at": 1758833386.98165,
+    "used_by": [
+      6441128051
+    ]
+  },
+  "86732937793": {
+    "max_activations": 5,
+    "current_activations": 5,
+    "reward": 5000,
+    "created_by": 1854264120,
+    "created_at": 1762259987.533737,
+    "used_by": [
+      1301654673,
+      5546635927,
+      7232568643,
+      7481403822,
+      8216518578
+    ]
+  }
+}
